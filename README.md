@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Arman7836/leetcode/tree/master/0328-odd-even-linked-list) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Arman7836/leetcode/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Arman7836/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
