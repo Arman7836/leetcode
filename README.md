@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arman7836/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Arman7836/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Arman7836/leetcode/tree/master/0933-number-of-recent-calls) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
