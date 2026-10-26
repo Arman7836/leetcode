@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arman7836/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +68,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arman7836/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
