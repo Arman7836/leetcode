@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arman7836/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arman7836/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Arman7836/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Arman7836/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arman7836/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Arman7836/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Arman7836/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
 ## Greedy
@@ -203,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arman7836/leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
