@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arman7836/leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arman7836/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Arman7836/leetcode/tree/master/0155-min-stack) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Arman7836/leetcode/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/Arman7836/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
