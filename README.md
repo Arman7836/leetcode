@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arman7836/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arman7836/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Arman7836/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Arman7836/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Arman7836/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arman7836/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Arman7836/leetcode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Arman7836/leetcode/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/Arman7836/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Array
 |  |
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Arman7836/leetcode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Arman7836/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Arman7836/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
