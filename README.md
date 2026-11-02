@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Arman7836/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Arman7836/leetcode/tree/master/0622-design-circular-queue) |
+| [0695-max-area-of-island](https://github.com/Arman7836/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Arman7836/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Arman7836/leetcode/tree/master/1046-last-stone-weight) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Arman7836/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Arman7836/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Arman7836/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/Arman7836/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Arman7836/leetcode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Arman7836/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Arman7836/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/Arman7836/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/Arman7836/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Arman7836/leetcode/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
@@ -292,4 +295,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Arman7836/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/Arman7836/leetcode/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Arman7836/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
