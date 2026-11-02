@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Arman7836/leetcode/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/Arman7836/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/Arman7836/leetcode/tree/master/1046-last-stone-weight) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Arman7836/leetcode/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/Arman7836/leetcode/tree/master/1046-last-stone-weight) |
 ## Graph Theory
 |  |
 | ------- |
