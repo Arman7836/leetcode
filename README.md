@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Arman7836/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Arman7836/leetcode/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/Arman7836/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Arman7836/leetcode/tree/master/0622-design-circular-queue) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Arman7836/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/Arman7836/leetcode/tree/master/0622-design-circular-queue) |
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Arman7836/leetcode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Arman7836/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Arman7836/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Arman7836/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Arman7836/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
