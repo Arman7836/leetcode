@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Arman7836/leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 | [1207-unique-number-of-occurrences](https://github.com/Arman7836/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/Arman7836/leetcode/tree/master/1436-destination-city) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arman7836/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Arman7836/leetcode/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arman7836/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1436-destination-city](https://github.com/Arman7836/leetcode/tree/master/1436-destination-city) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Arman7836/leetcode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Arman7836/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/Arman7836/leetcode/tree/master/1436-destination-city) |
 ## Prefix Sum
 |  |
 | ------- |
