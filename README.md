@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arman7836/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Arman7836/leetcode/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Arman7836/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Arman7836/leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
@@ -186,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Arman7836/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Arman7836/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Arman7836/leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -220,8 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
