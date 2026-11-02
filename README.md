@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Arman7836/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/Arman7836/leetcode/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Arman7836/leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Arman7836/leetcode/tree/master/0605-can-place-flowers) |
 ## Binary Search Tree
 |  |
 | ------- |
