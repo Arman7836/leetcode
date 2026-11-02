@@ -1,0 +1,61 @@
+
+class MyCircularQueue {
+    vector<int> arr;
+    int front;
+    int rear;
+    int size;
+
+public:
+    MyCircularQueue(int k) {
+        arr.resize(k);
+        front = 0;
+        rear = -1;
+        size = 0;
+    }
+
+    bool enQueue(int value) {
+
+        if(isFull())
+            return false;
+
+        rear = (rear + 1) % arr.size();
+
+        arr[rear] = value;
+        size++;
+
+        return true;
+    }
+
+    bool deQueue() {
+
+        if(isEmpty())
+            return false;
+
+        front = (front + 1) % arr.size();
+        size--;
+
+        return true;
+    }
+
+    int Front() {
+        if(isEmpty())
+            return -1;
+
+        return arr[front];
+    }
+
+    int Rear() {
+        if(isEmpty())
+            return -1;
+
+        return arr[rear];
+    }
+
+    bool isEmpty() {
+        return size == 0;
+    }
+
+    bool isFull() {
+        return size == arr.size();
+    }
+};
