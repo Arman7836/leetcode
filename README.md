@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arman7836/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Arman7836/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Arman7836/leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Arman7836/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Arman7836/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Arman7836/leetcode/tree/master/0622-design-circular-queue) |
 ## Array
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Arman7836/leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arman7836/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Arman7836/leetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Arman7836/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arman7836/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Arman7836/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Arman7836/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arman7836/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/Arman7836/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Arman7836/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Arman7836/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Arman7836/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Arman7836/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
