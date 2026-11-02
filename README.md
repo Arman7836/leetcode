@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arman7836/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Arman7836/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Arman7836/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Arman7836/leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 | [1207-unique-number-of-occurrences](https://github.com/Arman7836/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Arman7836/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Arman7836/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Arman7836/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Arman7836/leetcode/tree/master/0622-design-circular-queue) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Arman7836/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Arman7836/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -240,10 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Arman7836/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman7836/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Arman7836/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arman7836/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Arman7836/leetcode/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/Arman7836/leetcode/tree/master/1046-last-stone-weight) |
@@ -267,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Arman7836/leetcode/tree/master/0743-network-delay-time) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arman7836/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arman7836/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
