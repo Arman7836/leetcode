@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arman7836/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Arman7836/leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Arman7836/leetcode/tree/master/0621-task-scheduler) |
+| [1207-unique-number-of-occurrences](https://github.com/Arman7836/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Arman7836/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Arman7836/leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Arman7836/leetcode/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/Arman7836/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
